@@ -1,0 +1,84 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   a:link {
+       color:#5eced8;
+       background-color:transparent;
+       font
+   }
+
+   #wrapper{
+       width: 980px;
+       background-color:#1b335d;
+       padding: 10px;
+   }
+   #header{
+       min-height: 75px;
+       color:#c6b3db;
+       background-color: red;
+       padding-top: 20px;
+       padding-left:20px;
+       margin-bottom: 30px;
+       font-size: 22px;
+       border-radius: 25px;
+       background:red;
+       padding: 20px; 
+       width: 900px;
+       height: 75px; 
+   }
+   #navigation{
+       width: 150px;
+       min-height: 175px;
+       color:#5eced8;
+       background-color:teal;
+       display:inline-block;
+       vertical-align: top;
+       border-radius: 25px;
+       background:teal;
+       padding: 20px; 
+       width: 215px;
+       height: 225px;
+       font: bold;
+   }
+   #main_content{
+       width:625px;
+       min-height: 575Spx;
+       background-color: black;
+       display: inline-block;
+       margin-left: 20px;
+       margin-bottom: 20px;
+       border-radius: 25px;
+       background:black;
+       padding: 20px; 
+       width: 625px;
+       height: 575px; 
+       color:#c2d6eb;
+       padding-top:35px;
+       font-size: 14px;
+   }
+   #sub_content{
+       margin: 20px;
+   }
+   #bottom_bar{
+    border-radius: 25px;
+    background-color:#5d6673;
+    padding: 20px; 
+    width: 900px;
+    height: 25px;
+    color:#c2d6eb; 
+   }
+   .main_topics{
+       margin-left:25px;
+   }
+   .sub_topics{
+       margin-left:17px;
+   }
+   #MT_Header{
+       font-size: 18px;
+   }
+   .variables{
+       color: #6684f2;
+       display: inline-block;
+   }
